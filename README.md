@@ -1,4 +1,4 @@
-- 👋 Hi, I am @eliana314 and I have said enough
+- 👋 Hi, I am @eliana314
 
 
 <!---
